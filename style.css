@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    font-family: sans-serif;
+}
+textarea{
+    height: 250px;
+}
+input{
+    height: 70px;
+}
+img{
+    object-fit: cover;
+}
+#col-1{
+    background-image: url('téléchargement.jpeg');
+    background-size: cover;
+    height: 400px;
+}
